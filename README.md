@@ -1,2 +1,2 @@
-# face-detection-api
-Face Detection API.
+# object-detection-api
+Object Detection API.
